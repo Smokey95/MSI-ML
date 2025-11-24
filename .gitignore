@@ -1,1 +1,3 @@
 *.zip
+*.npz
+*\lfw_funneled
